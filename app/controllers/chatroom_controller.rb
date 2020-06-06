@@ -5,8 +5,3 @@ class ChatroomController < ApplicationController
         @messages = Message.all
     end
 end
-
-# private
-# def set_message
-
-# end
